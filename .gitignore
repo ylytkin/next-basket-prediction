@@ -1,0 +1,9 @@
+data/raw_data
+
+notebooks
+models
+
+**/.dumpster
+**/__pycache__
+**/.idea
+**/.ipynb_checkpoints
