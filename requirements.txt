@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+tensorflow
+pyyaml
+h5py
+
+git+https://github.com/ylytkin/myutils
