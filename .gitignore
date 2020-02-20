@@ -1,8 +1,6 @@
-data/raw_data
+data/private
 
-notebooks
-models
-
+**/.DS_Store
 **/.dumpster
 **/__pycache__
 **/.idea
